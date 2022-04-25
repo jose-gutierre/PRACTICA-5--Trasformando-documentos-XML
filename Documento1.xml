@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:\Users\joseg\Desktop\PRACTICA5-A170142 .xsl"?>
+<autos>
+<auto>
+    <nombre>chevrolet</nombre>
+    <cantidad>100</cantidad>
+  </auto>
+  <auto>
+   <nombre>honda</nombre>
+   <cantidad>50</cantidad>
+  </auto>
+  <auto>
+   <nombre>mazda</nombre>
+   <cantidad>30</cantidad>
+  </auto>
+  </autos>
